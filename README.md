@@ -8,7 +8,7 @@ El análisis tuvo como propósito decidir cuál de las cuatro tiendas es la que 
 
 ## La estructura del proyecto y organización de los archivos
 
-Todos los archivos están organizados en un solo cuaderno de Jupyter, y está subido a Google Colab, por lo tanto, la estructura es sencilla. Los datos, que contienen toda la información de las tiendas, se encuentran en una URL.
+Todos los archivos están organizados en un solo cuaderno de Jupyter, y está subido a Google Colab, por lo tanto, la estructura es sencilla. Los datos, que contienen toda la información de las tiendas, se encuentran en una URL, en la primera celda del cuaderno.
 
 ## Ejemplos de gráficos e insights obtenidos
 
